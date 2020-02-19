@@ -7,8 +7,13 @@ h1{font-size: 47px;
 #name{color:orange;}
 .half-width{width: 40%;
             float: left;
-        margin-left: 7%;
-    padding: 15px;}
+        margin-left: 5%;
+    padding: 17px;
+}
 h3{padding-top: 20px;
     padding-bottom: 15px;
     }
+#sect{background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;}
+section{height: 500px;}
+

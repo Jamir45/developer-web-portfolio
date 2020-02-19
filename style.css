@@ -1,0 +1,14 @@
+*{margin: 0px;padding: 0px;}
+body{font-family: 'Poppins', sans-serif;}
+img{width: 100%;}
+
+h1{font-size: 47px;
+    padding-top: 30px;}
+#name{color:orange;}
+.half-width{width: 40%;
+            float: left;
+        margin-left: 7%;
+    padding: 15px;}
+h3{padding-top: 20px;
+    padding-bottom: 15px;
+    }

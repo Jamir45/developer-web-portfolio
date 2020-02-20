@@ -38,7 +38,10 @@ a {
     color: black;
     font-weight: bold;
 }
-a :hover{color: white;}
+a:hover{background-image: none;
+         color: rgb(0, 0, 0);
+        border: 2px solid orange;
+        }
 .hire {
     margin: auto;
     padding-top: 20px;

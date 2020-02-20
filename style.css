@@ -10,10 +10,57 @@ h1{font-size: 47px;
         margin-left: 5%;
     padding: 17px;
 }
-h3{padding-top: 20px;
+h3{padding-top: 25px;
     padding-bottom: 15px;
     }
+h2{font-size: 40px;padding-top: 20px;}
+#exp{font-size: 40px;padding-bottom: 30px;padding-top: 0px;}
+
+p{text-align: justify;}
+
 #sect{background-image: url("images/top-banner.png");
     background-repeat: no-repeat;}
-section{height: 500px;}
+.sect2{background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;}
+#sect3{background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;}
 
+section{height: 500px;
+    padding-bottom: 150px;}
+a {
+    text-decoration: none;
+    font-size: 20px;
+    background-image: linear-gradient(45deg, #e67777, #ffd400);
+    padding: 8px 18px;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+}
+a :hover{color: white;}
+.hire {
+    margin: auto;
+    padding-top: 20px;
+    width: 140px;
+}
+.resume{
+    text-decoration: none;
+    font-size: 20px;
+    background-image: linear-gradient(45deg, #e67777, #ffd400);
+    padding: 8px 18px;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+    margin-left: 88px;
+}
+.experience{
+            box-shadow: 6px 3px 40px gray;
+            height: 70%;
+            border-radius: 5px;
+            border-left: 7px solid;
+            border-image: linear-gradient(180deg, #007dff, #5df7e5);
+            border-image-slice: 1;
+            background-color: white;
+            }
+footer p{text-align: center;}
